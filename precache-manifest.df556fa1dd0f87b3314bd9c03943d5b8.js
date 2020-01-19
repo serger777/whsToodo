@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2ac540b573376eaedeb7a7469aadb69",
+    "revision": "683e3de47bb00d7b84589148ba8251f7",
     "url": "/whsToodo/index.html"
   },
   {
-    "revision": "72d05b753bc93c4b5cbd",
+    "revision": "88bd3372033106a03837",
     "url": "/whsToodo/static/css/main.7782ad19.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whsToodo/static/js/2.bbfcc589.chunk.js.LICENSE"
   },
   {
-    "revision": "72d05b753bc93c4b5cbd",
-    "url": "/whsToodo/static/js/main.48b6cfd4.chunk.js"
+    "revision": "88bd3372033106a03837",
+    "url": "/whsToodo/static/js/main.a5d3ec9f.chunk.js"
   },
   {
     "revision": "d66a0e22a7b372f64996",
