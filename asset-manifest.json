@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whsToodo/static/css/main.7782ad19.chunk.css",
-    "main.js": "/whsToodo/static/js/main.e5e12674.chunk.js",
-    "main.js.map": "/whsToodo/static/js/main.e5e12674.chunk.js.map",
+    "main.js": "/whsToodo/static/js/main.e6a5d3a2.chunk.js",
+    "main.js.map": "/whsToodo/static/js/main.e6a5d3a2.chunk.js.map",
     "runtime-main.js": "/whsToodo/static/js/runtime-main.56886806.js",
     "runtime-main.js.map": "/whsToodo/static/js/runtime-main.56886806.js.map",
     "static/js/2.bbfcc589.chunk.js": "/whsToodo/static/js/2.bbfcc589.chunk.js",
     "static/js/2.bbfcc589.chunk.js.map": "/whsToodo/static/js/2.bbfcc589.chunk.js.map",
     "index.html": "/whsToodo/index.html",
-    "precache-manifest.2f5abb7b79036bdb5c9db9fdb7886355.js": "/whsToodo/precache-manifest.2f5abb7b79036bdb5c9db9fdb7886355.js",
+    "precache-manifest.57f57196b470b467a12836237fb12a2a.js": "/whsToodo/precache-manifest.57f57196b470b467a12836237fb12a2a.js",
     "service-worker.js": "/whsToodo/service-worker.js",
     "static/css/main.7782ad19.chunk.css.map": "/whsToodo/static/css/main.7782ad19.chunk.css.map",
     "static/js/2.bbfcc589.chunk.js.LICENSE": "/whsToodo/static/js/2.bbfcc589.chunk.js.LICENSE",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.56886806.js",
     "static/js/2.bbfcc589.chunk.js",
     "static/css/main.7782ad19.chunk.css",
-    "static/js/main.e5e12674.chunk.js"
+    "static/js/main.e6a5d3a2.chunk.js"
   ]
 }
